@@ -1,0 +1,2 @@
+Bus 003 Device 008: ID 15d1:0000 Hokuyo Data Flex for USB URG-Series USB Driver URG30
+Bus 003 Device 010: ID 15d1:0000 Hokuyo Data Flex for USB URG-Series USB Driver
